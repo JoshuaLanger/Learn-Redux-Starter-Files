@@ -21,3 +21,10 @@ export function removeComment(postId, index) {
     index
   };
 }
+
+// export function addPost(...) {
+//   return {
+//     type: 'ADD_POST',
+//     //...
+//   }
+// }
